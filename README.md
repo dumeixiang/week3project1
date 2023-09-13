@@ -2,7 +2,6 @@ Summary:
 
 This report provides a descriptive statistical analysis of world GDP and mortality .
 This project will include the reading of the data, the statistical summary of the data and the data visualization. 
-Data.descrition:
 
 Task:
 
