@@ -12,5 +12,6 @@ pandas==2.1.0
 seaborn
 matplotlib
 numpy
+polars
 
 
